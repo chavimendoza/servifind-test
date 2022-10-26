@@ -1,0 +1,914 @@
+.login-page-container {
+  min-height: 100vh;
+}
+.login-page-login-page {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-page-screen-shot20221015at9331 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  border-color: transparent;
+}
+.login-page-servifind-logo {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 298.730224609375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group1 {
+  top: 68px;
+  left: 342px;
+  width: 755px;
+  height: 230.730224609375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-text {
+  top: 196px;
+  left: 129px;
+  color: rgba(255, 255, 255, 1);
+  width: 515px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text02 {
+  top: 54.24188232421875px;
+  color: rgba(255, 229, 0, 1);
+  width: 755px;
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text04 {
+  top: 54.24188232421875px;
+  color: rgba(255, 229, 0, 1);
+  width: 755px;
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-search {
+  top: 71.19482421875px;
+  left: 460.91748046875px;
+  width: 64px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.login-page-finger-up {
+  top: 59px;
+  left: 369px;
+  width: 56px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+}
+.login-page-text06 {
+  left: 233px;
+  color: rgba(255, 255, 255, 1);
+  width: 307px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-bar {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-toolbar-background {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(240, 240, 240, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px 10px 0 0;
+}
+.login-page-right-icon-set {
+  top: 13px;
+  left: 1328px;
+  width: 96px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-icon-share {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-page-icon-new-tab {
+  top: 0px;
+  left: 35px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-page-icon-tab-overview {
+  top: 0px;
+  left: 72px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-page-left-icon-set {
+  top: 13px;
+  left: 96px;
+  width: 98px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-icon-sidebar {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-page-icon-chevron-left {
+  top: 0px;
+  left: 40px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-page-icon-chevron-right {
+  top: 0px;
+  left: 74px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-page-window-controls {
+  top: 20px;
+  left: 20px;
+  width: 52px;
+  height: 12px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-close {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+}
+.login-page-minimize {
+  top: 0px;
+  left: 20px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+}
+.login-page-zoom {
+  top: 0px;
+  left: 40px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+}
+.login-page-u-r-l-form {
+  top: 12px;
+  left: 440.25006103515625px;
+  width: 559px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-u-r-l-background {
+  top: 0px;
+  left: 0px;
+  width: 559px;
+  height: 28px;
+  position: absolute;
+}
+.login-page-icon-clockwise-arrow {
+  top: 6px;
+  left: 540.5px;
+  width: 13px;
+  height: 14px;
+  position: absolute;
+}
+.login-page-icon-shield {
+  top: 1px;
+  left: -35px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.login-page-u-r-l-address {
+  top: 5px;
+  left: 188.74993896484375px;
+  width: 152px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.login-page-text08 {
+  color: rgba(156, 156, 156, 1);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 4px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-page-text10 {
+  color: rgba(76, 76, 76, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-page-signin-form {
+  top: 317px;
+  left: 449px;
+  width: 595px;
+  height: 661px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group28 {
+  top: 0px;
+  left: 0px;
+  width: 595px;
+  height: 661px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-page-group27 {
+  top: 14px;
+  left: 31px;
+  width: 498.3861389160156px;
+  height: 605px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group11 {
+  top: 0px;
+  left: 0px;
+  width: 143px;
+  height: 44px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-text12 {
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-group26 {
+  top: 74px;
+  left: 0px;
+  width: 498.3861389160156px;
+  height: 337.5720520019531px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group21 {
+  top: 0px;
+  left: 0px;
+  width: 498.3861389160156px;
+  height: 86.75035858154297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-text14 {
+  color: rgba(0, 0, 0, 1);
+  width: 460px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-page-group20 {
+  top: 31.116975784301758px;
+  left: 0px;
+  width: 498px;
+  height: 55.63338088989258px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 498px;
+  height: 56px;
+  position: absolute;
+  border-color: rgba(40, 40, 40, 1);
+  border-style: solid;
+  border-width: 0.6000000238418579px;
+  border-radius: 6px;
+}
+.login-page-text16 {
+  top: 17.915834426879883px;
+  left: 31.81188201904297px;
+  color: rgba(171, 171, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-page-group23 {
+  top: 122.58201599121094px;
+  left: 0.00002175510599045083px;
+  width: 498.3861389160156px;
+  height: 86.75035858154297px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group22 {
+  top: 0px;
+  left: 0px;
+  width: 498.3861389160156px;
+  height: 86.75035858154297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 460px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-page-password-textbox {
+  top: 31.116975784301758px;
+  left: 0px;
+  width: 498px;
+  height: 55.63338088989258px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-rectangle41 {
+  top: 0px;
+  left: 0px;
+  width: 498px;
+  height: 56px;
+  position: absolute;
+  border-color: rgba(40, 40, 40, 1);
+  border-style: solid;
+  border-width: 0.6000000238418579px;
+  border-radius: 6px;
+}
+.login-page-text20 {
+  top: 17.915834426879883px;
+  left: 31.81188201904297px;
+  color: rgba(171, 171, 171, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.login-page-invisible1 {
+  top: 49.03277587890625px;
+  left: 440.6532897949219px;
+  width: 24.74257469177246px;
+  height: 19.801712036132812px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.login-page-group {
+  top: 1.3520528078079224px;
+  left: 0px;
+  width: 24.742630004882812px;
+  height: 17.097578048706055px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group1 {
+  top: 0px;
+  left: 0px;
+  width: 24.742630004882812px;
+  height: 17.097578048706055px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group2 {
+  top: 0px;
+  left: 0px;
+  width: 24.742630004882812px;
+  height: 17.097578048706055px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-vector {
+  top: 5.399225234985352px;
+  left: 12.182939529418945px;
+  width: 4px;
+  height: 3px;
+  position: absolute;
+}
+.login-page-vector1 {
+  top: 1.3498412370681763px;
+  left: 7.887783050537109px;
+  width: 17px;
+  height: 11px;
+  position: absolute;
+}
+.login-page-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 17px;
+  position: absolute;
+}
+.login-page-group24 {
+  top: 231.01995849609375px;
+  left: 0.00002175510599045083px;
+  width: 498.3861389160156px;
+  height: 16.972896575927734px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-rectangle5 {
+  top: 2.82882022857666px;
+  left: 0.00002175510599045083px;
+  width: 18px;
+  height: 14px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.login-page-text22 {
+  left: 29.455516815185547px;
+  color: rgba(0, 0, 0, 1);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text24 {
+  left: 371.138427734375px;
+  color: rgba(76, 76, 76, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-login-button {
+  top: 283.82452392578125px;
+  left: 0.00002175510599045083px;
+  width: 498.3861389160156px;
+  height: 53.74750518798828px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 1);
+}
+.login-page-text26 {
+  top: 16.0299072265625px;
+  left: 223.86167907714844px;
+  color: rgba(255, 255, 255, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text28 {
+  top: 582px;
+  left: 111px;
+  color: rgba(125, 125, 125, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Light;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-text29 {
+  color: rgba(125, 125, 125, 1);
+}
+.login-page-group13 {
+  top: 498px;
+  left: 147px;
+  width: 248px;
+  height: 64px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-group12 {
+  top: 0px;
+  left: 0px;
+  width: 248px;
+  height: 64px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.login-page-facebook {
+  top: 2.461501359939575px;
+  left: -4.547473508864641e-13px;
+  width: 62px;
+  height: 62px;
+  position: absolute;
+}
+.login-page-apple {
+  top: -1.1368683772161603e-13px;
+  left: 93.62000274658203px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.login-page-google {
+  top: -1.1368683772161603e-13px;
+  left: 185.68849182128906px;
+  width: 62px;
+  height: 62px;
+  position: absolute;
+}
+.login-page-text31 {
+  top: 762px;
+  left: 657px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
